@@ -1,2 +1,2 @@
-# improve-code-styling-thorugh-ci
-improve code styling thorugh ci with Prettify
+# improve-code-styling-through-ci
+improve code styling through ci with Prettify
